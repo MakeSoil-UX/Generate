@@ -30,13 +30,26 @@
 | Amazon | Amazon does a great job of providing recommendations unique to individual users | [https://www.amazon.com/ ](https://www.amazon.com/ ) | Akanksha Singh |
 
 
-
 ## Ideas ##
 
 ### Idea Pool ###
 
 | Ideas    | Area  | Proposer |
-| :---     | :---   | :---     |
+| :---     | :---   | :---    |
+| Add game elements to the design of MakeSoil, like adding reward points, reputation, level or something else | Function - Motivation | Xiangqing Ding |
+| The UI could be referred to the Yelp UI. It has some convenient design such as that a map showing all possible targets | UI - Style | Xiangqing Ding |
+| Transfer contribution of soil supporter to other measurement, for instance, “You have donated 44 kg food waste, the soil made from that is 10kg. The grains grown on these soil could support  a family for three days” | Function - Data Display | Xiangqing Ding |
+| Visualize the contribution of soil supporter into a line chart. The horizontal axis could be date and the vertical axis could be the weight of food donated | Function - Data Display | Xiangqing Ding |
+| Create a coverage map just like verizon did for their signal coverage so user can have an idea on what to expect when start the process. |  | Na Wen |
+| Give a tutorial including step by step process on what to do with those food waste as well as detail on what kind of food waste will be useful | Function - Tutorial | Na Wen |
+| Form a community like facebook group to discuss make soil experience. | Function - Community | Gang Zhang |
+| News feed page help users know what are going on recently in the community and neighborhood | Function - Community | Gang Zhang |
+| Don’t just reward people with money but also with something trendy or dear to their sweet memories like the game pokemon go. MakeSoil  can use such a model to encourage people to drive to location where they can get soil. | Function - Motivation | Shikhar Sharma |
+| MakeSoil can add a video feature to their phone app in future to let people share their makesoil stories | Function - Broadcast | Shikhar Sharma |
+| The MakeSoil app may be interfaced with the Google maps to help provide the soil makers with the navigation directions to the nearest soil supporters and soil couriers | Function - Map | Gautami Khandekar |
+| The MakeSoil App can have soil maker ratings, based on the amount of soil and the quality of soil produced. This might help users decide whom to purchase the soil from | Function - Rating | Gautami Khandekar |
+| Include a page that is similar to Medium where people can share their unique thoughts/ ideas/ experiences about making soil, creating a sustainable planet, why they do it, what inspires them etc in the form of articles | Function - Tutorial | Akanksha Singh |
+| Provide recommendations to each users based on past history, geographic location etc. Eg - Soil maker x needs y kgs of raw material. | UI - Post | Akanksha Singh |
 
 ### Ideas Selected ###
 
