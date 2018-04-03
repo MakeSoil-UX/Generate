@@ -45,7 +45,7 @@
 | Form a community like facebook group to discuss make soil experience. | Function - Community | Gang Zhang |
 | News feed page help users know what are going on recently in the community and neighborhood | Function - Community | Gang Zhang |
 | Don’t just reward people with money but also with something trendy or dear to their sweet memories like the game pokemon go. MakeSoil  can use such a model to encourage people to drive to location where they can get soil. | Function - Motivation | Shikhar Sharma |
-| MakeSoil can add a video feature to their phone app in future to let people share their makesoil stories | Function - Broadcast | Shikhar Sharma |
+| MakeSoil can add a video feature to their phone app in future to let people share their makesoil stories | Function - Community | Shikhar Sharma |
 | The MakeSoil app may be interfaced with the Google maps to help provide the soil makers with the navigation directions to the nearest soil supporters and soil couriers | Function - Map | Gautami Khandekar |
 | The MakeSoil App can have soil maker ratings, based on the amount of soil and the quality of soil produced. This might help users decide whom to purchase the soil from | Function - Rating | Gautami Khandekar |
 | Include a page that is similar to Medium where people can share their unique thoughts/ ideas/ experiences about making soil, creating a sustainable planet, why they do it, what inspires them etc in the form of articles | Function - Tutorial | Akanksha Singh |
