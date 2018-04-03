@@ -48,7 +48,7 @@
 | 10 | MakeSoil can add a video feature to their phone app in future to let people share their makesoil stories | Function - Community | Shikhar Sharma |
 | 11 | The MakeSoil app may be interfaced with the Google maps to help provide the soil makers with the navigation directions to the nearest soil supporters and soil couriers | Function - Map | Gautami Khandekar |
 | 12 | The MakeSoil App can have soil maker ratings, based on the amount of soil and the quality of soil produced. This might help users decide whom to purchase the soil from | Function - Rating | Gautami Khandekar |
-| 13 | Include a page that is similar to Medium where people can share their unique thoughts/ ideas/ experiences about making soil, creating a sustainable planet, why they do it, what inspires them etc in the form of articles | Function - Tutorial | Akanksha Singh |
+| 13 | Include a page that is similar to Medium where people can share their unique thoughts/ ideas/ experiences about making soil, creating a sustainable planet, why they do it, what inspires them etc in the form of articles | Function - Community | Akanksha Singh |
 | 14 | Provide recommendations to each users based on past history, geographic location etc. Eg - Soil maker x needs y kgs of raw material. | UI - Post | Akanksha Singh |
 
 ### Ideas Selected ###
