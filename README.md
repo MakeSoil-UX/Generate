@@ -34,7 +34,7 @@
 
 ### Idea Pool ###
 
-| No | Ideas    | Area  | Proposer |
+| No | Description    | Area  | Proposer |
 | :---  | :---     | :---   | :---    |
 | 1 | Add game elements to the design of MakeSoil, like adding reward points, reputation, level or something else | Function - Motivation | Xiangqing Ding |
 | 2 | The UI could be referred to the Yelp UI. It has some convenient design such as that a map showing all possible targets | Function - Map | Xiangqing Ding |
@@ -49,9 +49,19 @@
 | 11 | The MakeSoil app may be interfaced with the Google maps to help provide the soil makers with the navigation directions to the nearest soil supporters and soil couriers | Function - Map | Gautami Khandekar |
 | 12 | The MakeSoil App can have soil maker ratings, based on the amount of soil and the quality of soil produced. This might help users decide whom to purchase the soil from | Function - Rating | Gautami Khandekar |
 | 13 | Include a page that is similar to Medium where people can share their unique thoughts/ ideas/ experiences about making soil, creating a sustainable planet, why they do it, what inspires them etc in the form of articles | Function - Community | Akanksha Singh |
-| 14 | Provide recommendations to each users based on past history, geographic location etc. Eg - Soil maker x needs y kgs of raw material. | Function - Recommendation | Akanksha Singh |
+| 14 | Provide recommendations to each users based on past history, geographic location etc. Eg - Soil maker x needs y kgs of raw material | Function - Recommendation | Akanksha Singh |
 
-### Ideas Selected ###
+### Best Ideas ###
+
+After group discussion, we categorized the original ideas and select three of the ideas.
+
+| Idea | Description    |
+| :--- | :---     		|
+| Map 			| 1. User could just view the detail on the map (may be a pop-out window)  <br>2. User could set filter of the map (such as distance, zip code) <br>3. The map could have function of navigation  |
+| Community		| 1. Platform owner/stuff could make announcement, posting news in the community <br>2. Users could post articles about their experience, opinions in the community <br>3. Soil maker could post materials what they need in the community <br>4. In some posting there could be pictures or videos |
+| Achievement	| 1. While soil supporter donates food waste, they will get virtual rewards (points) based on their donation <br>2. The user could review their contribution. The contribution graph could be a line chart <br>3. There could be ranking board for users based on their donation <br>4. There could be some medals for users with specific achievement (e.g. donate over 20 kg waste in one day)  |
+
+
 
 ## Variations ##
 
