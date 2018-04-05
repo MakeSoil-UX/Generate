@@ -65,7 +65,94 @@ After group discussion, we categorized the original ideas and select three of th
 
 ## Variations ##
 
+### Akanksha Singh (Idea: Community) ###
+
+![](./crazy8/as.jpg)
+
+
+
+### Xiangqing Ding (Idea: Achievement) ###
+
+![](./crazy8/xd.jpg)
+
+
+
+### Gang Zhang (Idea: Map) ###
+
+![](./crazy8/gz.jpg)
+
+
+
+### Na Wen (Idea: Community) ###
+
+![](./crazy8/nw.jpg)
+
+
+
+### Gautami Khandekar (Idea: Map) ###
+
+![](./crazy8/gk.jpg)
+
+
+
+### Shikhar Sharma (Idea: Achievement) ###
+
+![](./crazy8/ss.jpg)
+
+
+
+
 ## Storyboards ##
+
+
+### Akanksha Singh (Idea: Community) ###
+
+![](./storyboard/as.jpg)
+
+**Description:** 
+
++ The user can view different tabs (possibly different topics for articles), a few top/ trending articles. Additionally, there is a news feed to the right along with recommended readings based on your history. There are buttons for viewing your profile, notifications, and search.
++ Once the user clicks on the article, they can view who published the article, when was it published. They can also like the article and share it.
++ If the user decides to share it, they can share it via different mediums such as Facebook, Twitter, LinkedIn, Gmail.
+
+
+### Xiangqing Ding (Idea: Achievement) ###
+
+![](./storyboard/xd.jpg)
+
+**Description:**
+
++ The user may intend to know their donation history and how much they contribute to the environment.
++ The application should have a main page for each user, containing profile, contribution and achievement.
++ The contribution is like a line chart with date as horizontal axis and weight of donation as vertical axis.
++ In the achievement page, there is achievement (medal) the user own. It also shows achievement that is unlocked to motivate people to contribute. 
+
+### Gang Zhang (Idea: Map) ###
+
+![](./storyboard/gz.jpg)
+
+**Description:**
+
+A soil supporter use the app to find the way to the nearest soil maker
+
+### Na Wen (Idea: Community) ###
+
+![](./storyboard/nw.jpg)
+
+**Description:**
+
+Two user can chat before making a MakeSoil connection, so the soil supplier can request location where to drop of the food waste for soil maker.
+
+### Gautami Khandekar (Idea: Map) ###
+
+![](./storyboard/gk.jpg)
+
+
+
+### Shikhar Sharma (Idea: Achievement) ###
+
+![](./storyboard/ss.jpg)
+
 
 ## References ##
 
