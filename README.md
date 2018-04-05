@@ -58,7 +58,7 @@ After group discussion, we categorized the original ideas and select three of th
 | Idea | Description    |
 | :--- | :---     		|
 | Map 			| 1. User could just view the detail on the map (may be a pop-out window)  <br>2. User could set filter of the map (such as distance, zip code) <br>3. The map could have function of navigation  |
-| Community		| 1. Platform owner/stuff could make announcement, posting news in the community <br>2. Users could post articles about their experience, opinions in the community <br>3. Soil maker could post materials what they need in the community <br>4. In some posting there could be pictures or videos |
+| Community		| 1. Platform owner/staff could make announcement, posting news in the community <br>2. Users could post articles about their experience, opinions in the community <br>3. Soil maker could post materials what they need in the community <br>4. In some posting there could be pictures or videos |
 | Achievement	| 1. While soil supporter donates food waste, they will get virtual rewards (points) based on their donation <br>2. The user could review their contribution. The contribution graph could be a line chart <br>3. There could be ranking board for users based on their donation <br>4. There could be some medals for users with specific achievement (e.g. donate over 20 kg waste in one day)  |
 
 
